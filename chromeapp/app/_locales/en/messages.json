@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "Libertario",
+        "description": "The name of the application"
+    },
+    "appDescription": {
+        "message": "Sistema de Gestión Contable",
+        "description": "The description of the application"
+    }
+}
